@@ -27,7 +27,7 @@ const Cards = () => {
                   })}
                 </div>
                 <p>
-                  Referral Amonunt <span>₹{amount}</span>
+                  Referral Amount <span>₹{amount}</span>
                 </p>
               </div>
             );
